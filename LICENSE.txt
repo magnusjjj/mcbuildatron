@@ -1,7 +1,10 @@
-The code, and recipies are licensed under the MIT license, see the license below the gradle section
-This repository also includes gradlew, which is licensed under the Apache License, version 2.0
-
-https://gradle.org/license/
+The code, and recipies, except as noted below, are licensed under the MIT license, see the license below the gradle section
+Exceptions:
+	- This repository contains gradlew, which is licensed under the Apache License, version 2.0 (https://gradle.org/license/)
+	- This repository contains python, which license is listed on the page: https://docs.python.org/3/license.html
+	- This repository contains smmap, which is licensed under the BSD license
+	- This repository contains gitdb, which license is contained in its directory
+	- This repository contains gitpython, which license is contained in its directory
 
 Copyright 2017 Magnus Johnsson
 
