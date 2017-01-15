@@ -10,7 +10,7 @@ parser.add_argument('mod')
 
 args = parser.parse_args()
 
-f = open('packages/' + args.mod + '/recipy.json', 'r')
+f = open('packages/' + args.mod + '/recipe.json', 'r')
 recipe = json.loads(f.read())
 f.close()
 

@@ -1,4 +1,0 @@
-{
-	"github": "https://github.com/blay09/CraftingTweaks",
-	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
-}

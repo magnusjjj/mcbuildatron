@@ -1,4 +1,0 @@
-{
-	"github": "https://github.com/AlgorithmX2/Chisels-and-Bits",
-	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
-}

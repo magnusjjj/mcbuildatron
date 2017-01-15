@@ -1,0 +1,5 @@
+{
+	"github": "https://github.com/squeek502/WailaHarvestability",
+	"commandrun": "gradlew setupCIWorkspace build\ngradlew build",
+	"addgradlew": true
+}

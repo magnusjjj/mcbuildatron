@@ -1,4 +1,0 @@
-{
-	"github": "https://github.com/TehNut/Buttons",
-	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
-}

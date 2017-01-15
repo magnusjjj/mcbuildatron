@@ -1,4 +1,0 @@
-{
-	"github": "https://github.com/asiekierka/DimensionalAnchors",
-	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
-}

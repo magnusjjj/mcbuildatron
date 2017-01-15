@@ -1,5 +1,0 @@
-{
-	"github": "https://github.com/Mineshopper/carpentersblocks",
-	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build",
-	"addgradlew": true
-}
