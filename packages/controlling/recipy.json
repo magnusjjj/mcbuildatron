@@ -1,0 +1,4 @@
+{
+	"github": "https://github.com/jaredlll08/Controlling",
+	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
+}

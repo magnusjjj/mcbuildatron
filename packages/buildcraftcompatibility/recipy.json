@@ -1,0 +1,4 @@
+{
+	"github": "https://github.com/BuildCraft/BuildcraftCompat",
+	"commandrun": "gradlew -Dfile.encoding=UTF-8 setupCIWorkspace build"
+}
