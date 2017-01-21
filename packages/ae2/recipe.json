@@ -1,4 +1,4 @@
 {
 	"github": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
-	"commandrun": "gradlew setupCIWorkspace build\ngradlew build"
+	"commandrun": "gradlew setupCIWorkspace build"
 }
