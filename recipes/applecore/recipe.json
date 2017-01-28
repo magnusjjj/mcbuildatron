@@ -1,0 +1,4 @@
+{
+	"github": "https://github.com/squeek502/AppleCore",
+	"commandrun": "gradlew setupCIWorkspace build\ngradlew build"
+}

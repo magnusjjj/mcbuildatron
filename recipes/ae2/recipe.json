@@ -1,0 +1,6 @@
+{
+    "name": "Applied Energistics 2",
+    "license": "lgplv3",
+    "github": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+    "commandrun": "gradlew setupCIWorkspace build\ngradlew build"
+}
