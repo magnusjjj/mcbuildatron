@@ -2,5 +2,4 @@ packages/*/*/
 libraries/*/Lib/site-packages
 libraries/*/Scripts
 *get_pip.py*
-output/*
 *__pycache__*
